@@ -1,0 +1,58 @@
+body
+{
+    background: rgba(19,170,74,1);
+}
+.container
+{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#myform
+{
+  padding: 30px;
+}
+#output
+{
+    margin: 0 auto;
+   text-align: center;
+    font-size: 30px;
+    height: 100px;
+    margin-bottom: 10px;
+        
+   
+}
+#input
+{
+    text-align: center;
+    font-size: 23px;
+    color: #ff920a;
+    border-radius: 0px 86px 133px 0px;
+    
+}
+#button
+{
+  font-size: 20px;
+    margin-bottom: 20px;
+    background-color: #ff920a;
+    border-radius: 122px 135px 125px 120px;
+}
+strong
+{
+    font-size: 20px;
+    padding: 10px; 
+    background-color: #ff920a;
+    color: white;
+    border-radius: 122px 0px 0px 120px;
+    
+}
+#msg
+{
+    color: red;
+}
+h1
+{
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+}
